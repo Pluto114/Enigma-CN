@@ -97,7 +97,7 @@
 
 ## 许可证 (License)
 
-本项目采用 [MIT许可证](LICENSE.txt) (你需要创建一个 `LICENSE.txt` 文件并将MIT许可证内容放进去，或者选择其他你喜欢的开源许可证，例如 Apache 2.0 或 GPLv3)。
+本项目采用 [MIT许可证](LICENSE.txt) 。
 
 ## 贡献与反馈 (Contributing & Feedback)
 
